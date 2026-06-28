@@ -1,4 +1,4 @@
 # DEMO
 It is my first repository.
 <br>
-author name = hamza siddique
+author name = hamza (student)
